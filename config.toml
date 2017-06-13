@@ -1,0 +1,32 @@
+baseURL = "https://frecre-blog.firebaseapp.com/"
+languageCode = "en-us"
+title = "FreCre Inc."
+
+paginate = 9
+theme = "hugo-theme-bleak"
+
+[params]
+  # Warning Keys are case sensitives
+  Subtitle = "The Official Blog"
+  description = "Freedom Creator!"
+  cover = "/images/frecre-cover-1.jpg"
+
+  # Google analytics
+  googleAnalyticsUserID = "UA-8114245-4"
+  domainVerification = "fc173d84e3a4de948ed4bda2908afd3e"
+  disqus = "frecre"
+  logo = "/images/frecre-logo.jpg"
+
+  [params.author]
+    firstName = "FirstName"
+    lastName = "LastName"
+    gender = "male"
+    userName = "username"
+    image = "/images/frecre-logo.jpg"
+    website = "https://www.frecre.com"
+    twitter = "xxxxxxx"
+    github = "xxxxxxx"
+    facebook = "xxxxxxxxx"
+    linkedin = "xxxxxxxxx"
+    gplus = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+    gravatarHash = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
